@@ -3,7 +3,7 @@
 **Interactive, GPU-accelerated Mandelbrot fractal explorer built with p5.js and custom shaders.**
 Responsive, mobile-friendly, and optimized for smooth zooming and panning.
 
----
+## [Preview Link](https://akashdeepnandi.github.io/mandlebrotset-p5js/)
 
 ## 🚀 Features
 
